@@ -1,0 +1,12 @@
+{
+    "service": {
+        "path": "/mnt/tmp",
+        "host": "127.0.0.1",
+        "port": "8000",
+	"secret": "EiCh4Thei7eikoh2aem6ohgh7Foozie1Dir%au3re1puTaixengiefoo4booV/ai"
+    },
+    "vault": {
+        "addr": "http://127.0.0.1:8200",
+        "token": "5THwWS2gt89dhHdTZcDnfpHV"
+    }
+}
